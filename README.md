@@ -142,5 +142,5 @@ Raw CSV → Python Cleaning → PostgreSQL Star Schema → SQL Views → Power B
 ---
 
 ## 👤 Author
-**Cleon Lopes**  
-B.Tech Computer Engineering | Aspiring Data Analyst / Business Analyst  
+**Chelsi Shukla**  
+B.Tech Computer Engineering  
